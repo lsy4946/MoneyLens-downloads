@@ -1,0 +1,11 @@
+.release-assets/
+.verification/
+*.apk
+*.jks
+*.keystore
+*.pem
+*.p12
+*.pfx
+.env*
+signing.properties
+local.properties
